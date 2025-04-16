@@ -55,5 +55,3 @@ Ces deux **programmes** utilisent le **BLE** pour communiquer: l'ESP32 est confi
 🔗 **GitHub du projet:** [CarPlayBle ESP32](https://github.com/appleshaman/CarPlayBLE)  
 🎥 **Vidéo de démonstration:** [Image - ESP32](https://github.com/appleshaman/CarPlayBLE/blob/main/docs/5.jpg)
 
->⚠️ <span style="color:rgb(255, 0, 0)">**Remarque importante :** </span>
->Ce projet offre un grand nombre de fonctionnalités, mais cela peut entraîner une **surcharge du système**, affectant les **performances** et réduisant considérablement **l'autonomie de la batterie**.
